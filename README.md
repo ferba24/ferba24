@@ -4,8 +4,6 @@
 
 🤓 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
 
-👩‍🎓 I graduated from the Javascript Full Stack Bootcamp (SoyHenry).
-
 🚀 I work as a Junior Javascript Developer.
 
 🔎 I encourage you to look at my projects!
